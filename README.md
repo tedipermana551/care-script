@@ -17,7 +17,7 @@
 
 ---
 
-**[Masuk ke panggung. Berdiri tegak, senyum, buat kontak mata dengan audiens sebelum mulai berbicara.]**
+**[Oleh Tedi PERMANA]**
 
 Halo semuanya — selamat datang.
 
@@ -45,7 +45,7 @@ Sebuah aplikasi pregnancy tracker // yang tidak hanya menjadi asisten bagi ibu h
 
 ---
 
-**[Nada serius, informatif. Bergerak sedikit ke sisi panggung agar terasa lebih dinamis.]**
+**[Oleh Tedi Permana]**
 
 Mari kita bicara tentang data.
 
@@ -87,7 +87,7 @@ Aplikasi yang ada hari ini // hampir semuanya berbicara **kepada ibu**, // bukan
 
 ---
 
-**[Berdiri di tengah panggung. Berbicara lebih personal, lebih dalam.]**
+**[Oleh Ardi junaedin]**
 
 Sekarang, pertanyaan yang wajar untuk ditanyakan adalah: // *"Dari sekian banyak ide projek — // kenapa ini yang kalian pilih?"*
 
@@ -122,7 +122,7 @@ Inilah mengapa kami tidak memilih projek yang lebih sederhana. // Kami memilih y
 
 ---
 
-**[Bergerak sedikit, nada analitis dan percaya diri.]**
+**[Oleh Ardi junaedin]**
 
 Tentu saja, kami tidak membangun ini di ruang hampa. // Kami belajar dari apa yang sudah ada — // dan kemudian kami **memilih untuk berbeda**.
 
@@ -156,7 +156,7 @@ Dalam peta kompetisi, // kalau aplikasi lain berbicara kepada *ibu hamil*, // CA
 
 ---
 
-**[Nada antusias. Ini adalah bagian paling konkret — tunjukkan keyakinan.]**
+**[Oleh Lintang Dwi Aprilia]**
 
 Sekarang saya ingin berbicara tentang apa yang sudah **benar-benar kami bangun.**
 
@@ -218,7 +218,7 @@ Dan ini belum selesai. // Roadmap kami ke depan mencakup beberapa fitur yang kam
 
 ---
 
-**[Berdiri di tengah. Nada tenang, kuat, meyakinkan. Ini adalah momen penutup yang berkesan.]**
+**[Oleh Lintang Dwi Aprilia]**
 
 Baiklah. // Mari kita rangkum apa yang sudah kita bahas hari ini.
 
@@ -242,7 +242,7 @@ Terima kasih sudah menyimak dengan penuh perhatian. //
 
 Nama projek kami **CARE** — // dan kami percaya, // **merawat bersama** // adalah fondasi terbaik untuk menyambut kehidupan baru.
 
-Sekian dari kami. // Kami sangat terbuka untuk diskusi dan pertanyaan.
+Sekian dari kami. // Saya LINTANG DWI APRILIA, Saya ARDI JUNAEDIN, Saya, TEDI PERMANA.
 
 **Terima kasih.**
 
@@ -256,12 +256,12 @@ Sekian dari kami. // Kami sangat terbuka untuk diskusi dan pertanyaan.
 
 | # | Segmen | Durasi Est. | Poin Kunci |
 |---|--------|-------------|------------|
-| 1 | Pembuka | ~1–2 menit | Hook skenario ibu hamil sendirian |
-| 2 | Latar Belakang | ~3–4 menit | Data pasar, tren, celah keterlibatan suami |
-| 3 | Mengapa Projek Ini | ~2–3 menit | 3 alasan: masalah nyata, pasar, dampak kesehatan |
-| 4 | Referensi & Positioning | ~3 menit | Kompetitor, diferensiasi, blue ocean |
-| 5 | Implementasi Nyata | ~4–5 menit | Target market, MVP, roadmap fitur |
-| 6 | Kesimpulan & Penutup | ~1–2 menit | Recap, visi, closing statement |
+| 1 | Pembuka | ~1–2 menit | Hook skenario ibu hamil sendirian | tedi
+| 2 | Latar Belakang | ~3–4 menit | Data pasar, tren, celah keterlibatan suami | tedi
+| 3 | Mengapa Projek Ini | ~2–3 menit | 3 alasan: masalah nyata, pasar, dampak kesehatan | ardi
+| 4 | Referensi & Positioning | ~3 menit | Kompetitor, diferensiasi, blue ocean | ardi
+| 5 | Implementasi Nyata | ~4–5 menit | Target market, MVP, roadmap fitur | lintang
+| 6 | Kesimpulan & Penutup | ~1–2 menit | Recap, visi, closing statement | lintang
 
 **Total estimasi durasi: 14–19 menit**
 
