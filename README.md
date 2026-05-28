@@ -17,7 +17,7 @@
 
 ---
 
-**[Oleh Tedi PERMANA]**
+**[Oleh Tedi PERMANA / SLIDE 1]**
 
 Halo semuanya — selamat datang.
 
@@ -45,7 +45,7 @@ Sebuah aplikasi pregnancy tracker // yang tidak hanya menjadi asisten bagi ibu h
 
 ---
 
-**[Oleh Tedi Permana]**
+**[Oleh Tedi Permana / SLIDE 2]**
 
 Mari kita bicara tentang data.
 
@@ -87,7 +87,7 @@ Aplikasi yang ada hari ini // hampir semuanya berbicara **kepada ibu**, // bukan
 
 ---
 
-**[Oleh Ardi junaedin]**
+**[Oleh Ardi junaedin / SLIDE 3]**
 
 Sekarang, pertanyaan yang wajar untuk ditanyakan adalah: // *"Dari sekian banyak ide projek — // kenapa ini yang kalian pilih?"*
 
@@ -122,7 +122,7 @@ Inilah mengapa kami tidak memilih projek yang lebih sederhana. // Kami memilih y
 
 ---
 
-**[Oleh Ardi junaedin]**
+**[Oleh Ardi junaedin / SLIDE 4]**
 
 Tentu saja, kami tidak membangun ini di ruang hampa. // Kami belajar dari apa yang sudah ada — // dan kemudian kami **memilih untuk berbeda**.
 
@@ -156,7 +156,7 @@ Dalam peta kompetisi, // kalau aplikasi lain berbicara kepada *ibu hamil*, // CA
 
 ---
 
-**[Oleh Lintang Dwi Aprilia]**
+**[Oleh Lintang Dwi Aprilia / SLIDE 5]**
 
 Sekarang saya ingin berbicara tentang apa yang sudah **benar-benar kami bangun.**
 
@@ -218,7 +218,7 @@ Dan ini belum selesai. // Roadmap kami ke depan mencakup beberapa fitur yang kam
 
 ---
 
-**[Oleh Lintang Dwi Aprilia]**
+**[Oleh Lintang Dwi Aprilia / SLIDE 6/7/8]**
 
 Baiklah. // Mari kita rangkum apa yang sudah kita bahas hari ini.
 
